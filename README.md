@@ -15,3 +15,14 @@ Step definitio:src/test/java/StepDefinitions
 TestNG.xml: testng.xml
 POM.XML:pom.xml
 TestRunner : src/test/java/cucumberOptions
+
+
+Scenario 2:
+Implement mini project of Web Application in Visual Studio Code editor
+    Launch a below URL and verify the title of the Page http://the-internet.herokuapp.com/
+    Click on Checkboxes link and verify the text on the page as “Checkboxes” using TestNG Assertions
+       And verify checkbox 1 is not checked and checkbox 2 is checked (Write generic functions to validate this)
+    Navigate back to Home page and click on File Upload link
+   Verify the text on the Page as “File Uploader” and click on Choose File button to select the file and Click on Upload button.
+
+   File location :firstPython.py
