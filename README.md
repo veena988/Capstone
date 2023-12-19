@@ -26,3 +26,11 @@ Implement mini project of Web Application in Visual Studio Code editor
    Verify the text on the Page as “File Uploader” and click on Choose File button to select the file and Click on Upload button.
 
    File location :firstPython.py
+
+
+   Scenario 3 :
+Implement below Case Study using POSTMAN API Automation
+   Create a Rest-Assured Project and Implement a generic functions to read data from MS-Excel Sheets.
+   And use get method to trigger an API.
+
+   File Location : https://github.com/veena988/RestAssure/blob/master/src/test/java/RestAssure/Testing/APITesting.java
